@@ -1,0 +1,22 @@
+ctrl + y  删除一行
+ctrl + d 复制当前行，并且粘贴到下一行
+ctrl + shift + f12  窗口变大变小
+ctrl + shift + f10  运行程序
+ctrl + z 撤消
+ctrl + shift + z  取消撤消
+ctrl + p 提示方法参数
+ctrl + n or 按两次shift  查看类库 
+crtl + f12  查看类库中具体的方法
+alt + 左箭头/右箭头  切换java程序
+alt + 标号   切换窗口
+alt + insert 任何新增/新建/添加
+alt + 回车  纠正错误(代码下面划了红色波浪线，说明有错)
+sout    System.out.println();
+souf     System.out.printf();
+psvm  或 main  快速生成main方法
+在光标停顿处，按住alt键，并点击鼠标左键垂直往下拉，可以实现同时编写多行代码
+ctrl+alt+enter  向上插入空行，即往光标所在行的上面再开一行
+shift+enter  向下插入空行，即往光标所在行的下面再开一行
+光标移到当前行的任意位置，ctrl+c两下，可以快速赋值当前行。
+
+
